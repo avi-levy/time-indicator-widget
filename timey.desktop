@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Network
+Comment=Manage your network connections
+Icon=nm-device-wireless
+Exec=timey
+Terminal=false
+Type=Application
+NoDisplay=false
+NotShowIn=KDE;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=NetworkManager
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Autostart-enabled=true
+X-Ubuntu-Gettext-Domain=nm-applet
