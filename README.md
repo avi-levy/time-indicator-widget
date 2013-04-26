@@ -12,6 +12,6 @@ installation procedure
 ======================
 
 1. Local Install:
-```sudo cp timey /usr/bin; sudo cp timey.desktop ~/.config/autostart```
+```sudo cp timey /usr/local/bin; sudo cp timey.desktop ~/.config/autostart```
 2. Global Install:
 ```sudo cp timey /usr/bin; sudo cp timey.desktop /etc/xdg/autostart```
